@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/938646096120336154/142318d82d0f4987abeb0f55c7469dbd/artifacts
+end_time: 1745929273234
+entry_point_name: ''
+experiment_id: '938646096120336154'
+lifecycle_stage: active
+run_id: 142318d82d0f4987abeb0f55c7469dbd
+run_name: caring-bee-188
+run_uuid: 142318d82d0f4987abeb0f55c7469dbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745929273201
+status: 4
+tags: []
+user_id: d.konshin

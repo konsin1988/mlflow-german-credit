@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/938646096120336154
+creation_time: 1745929273060
+experiment_id: '938646096120336154'
+last_update_time: 1745929273060
+lifecycle_stage: active
+name: German credit catboost classifier

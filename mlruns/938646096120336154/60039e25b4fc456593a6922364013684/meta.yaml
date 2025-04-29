@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/938646096120336154/60039e25b4fc456593a6922364013684/artifacts
+end_time: 1745929382108
+entry_point_name: ''
+experiment_id: '938646096120336154'
+lifecycle_stage: active
+run_id: 60039e25b4fc456593a6922364013684
+run_name: honorable-panda-737
+run_uuid: 60039e25b4fc456593a6922364013684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745929371136
+status: 3
+tags: []
+user_id: d.konshin
