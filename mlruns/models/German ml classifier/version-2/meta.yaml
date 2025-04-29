@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745934810415
+current_stage: None
+description: ''
+last_updated_timestamp: 1745934810415
+name: German ml classifier
+run_id: 449f0ab38bfb4661b1479cbc36a6b8b8
+run_link: ''
+source: mlflow-artifacts:/938646096120336154/449f0ab38bfb4661b1479cbc36a6b8b8/artifacts/german_credit
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/938646096120336154/449f0ab38bfb4661b1479cbc36a6b8b8/artifacts/german_credit
+user_id: null
+version: 2

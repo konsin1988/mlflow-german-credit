@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/938646096120336154/449f0ab38bfb4661b1479cbc36a6b8b8/artifacts
+end_time: 1745934810427
+entry_point_name: ''
+experiment_id: '938646096120336154'
+lifecycle_stage: active
+run_id: 449f0ab38bfb4661b1479cbc36a6b8b8
+run_name: bittersweet-hawk-58
+run_uuid: 449f0ab38bfb4661b1479cbc36a6b8b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745934806492
+status: 3
+tags: []
+user_id: d.konshin

@@ -1,0 +1,47 @@
+artifact_path: german_credit
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.8
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 3930254
+model_uuid: fe21331a724f437983342e65cbd57503
+prompts: null
+run_id: 449f0ab38bfb4661b1479cbc36a6b8b8
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "string", "name": "account_check_status", "required": true},
+    {"type": "long", "name": "duration_in_month", "required": true}, {"type": "string",
+    "name": "credit_history", "required": true}, {"type": "string", "name": "purpose",
+    "required": true}, {"type": "long", "name": "credit_amount", "required": true},
+    {"type": "string", "name": "savings", "required": true}, {"type": "string", "name":
+    "present_employment_since", "required": true}, {"type": "long", "name": "installment_as_income_perc",
+    "required": true}, {"type": "string", "name": "sex", "required": true}, {"type":
+    "string", "name": "personal_status", "required": true}, {"type": "string", "name":
+    "other_debtors", "required": true}, {"type": "long", "name": "present_residence_since",
+    "required": true}, {"type": "string", "name": "property", "required": true}, {"type":
+    "long", "name": "age", "required": true}, {"type": "string", "name": "other_installment_plans",
+    "required": true}, {"type": "string", "name": "housing", "required": true}, {"type":
+    "long", "name": "credits_this_bank", "required": true}, {"type": "string", "name":
+    "job", "required": true}, {"type": "long", "name": "people_under_maintenance",
+    "required": true}, {"type": "string", "name": "telephone", "required": true},
+    {"type": "string", "name": "foreign_worker", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-04-29 13:53:26.586745'
